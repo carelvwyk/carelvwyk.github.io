@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Hello World"
+image:
+  feature: nomadsland.jpg
 date:   2016-09-19 20:24:11 +0200
 categories: personal, coding
 ---
